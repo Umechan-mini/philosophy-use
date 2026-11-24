@@ -1,0 +1,30 @@
+.btn-primary{
+  background-color: #DDE8D9;
+}
+
+body {
+  background-color: #F5F8F3;
+  color: #344536;
+  text-align: center;
+}
+
+.navbar {
+  background-color: #DDE8D9;
+}
+
+.btn-primary {
+  background-color: #8DA88A;
+  border-color: #8DA88A;
+}
+
+.card-text{
+  font-size: 18px;
+  font-weight:bold;
+}
+
+.color-sample {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 10px auto;
+}
